@@ -11,8 +11,13 @@ Dinesh
 
 
 Chicken
+<<<<<<< HEAD
 dairy peoducsts
 milk
+=======
+milk
+water 
+>>>>>>> dairy
 egg
 
 
